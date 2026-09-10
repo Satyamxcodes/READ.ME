@@ -3,7 +3,7 @@
 ### 🚀 AI/ML Undergraduate | Java & DSA Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer+in+Progress;DSA+Learner;AI%2FML+Enthusiast;Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building.+Learning.+Improving.;AI%2FML+Student;Learning+Something+New+Everyday" />
 </p>
 
 <p align="center">
