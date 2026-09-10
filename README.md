@@ -116,8 +116,6 @@ DSA
 Database
  └── MySQL
 
-AI/ML
- └── Machine Learning Fundamentals
 
 ```
 
