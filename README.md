@@ -126,8 +126,6 @@ Database
 * 🚀 Become strong in Java
 * 🧠 Master DSA fundamentals
 * 🗄️ Improve MySQL skills
-* 🤖 Build AI/ML projects
-* 💻 Create real-world software projects
 * 📈 Contribute more to GitHub
 
 ---
