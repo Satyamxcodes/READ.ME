@@ -103,7 +103,7 @@ HTML • CSS • JS
 ```text
 Java
  ├── OOP
- ├── Collections
+ └── Collections
 
 DSA
  ├── Arrays
