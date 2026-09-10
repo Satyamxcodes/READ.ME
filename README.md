@@ -27,7 +27,6 @@ Currently working on:
 * 🧠 Data Structures & Algorithms
 * 🗄️ MySQL & Database Concepts
 * 🌐 HTML, CSS & JavaScript
-* 🤖 Machine Learning
 * ⚙️ Backend Development
 
 > 💡 **Learn → Build → Practice → Improve**
@@ -92,8 +91,6 @@ HTML • CSS • JS
 
 📌 Database design
 📌 SQL queries
-📌 CRUD operations
-📌 Practical database projects
 
 </td>
 </tr>
@@ -107,7 +104,6 @@ HTML • CSS • JS
 Java
  ├── OOP
  ├── Collections
- └── Exception Handling
 
 DSA
  ├── Arrays
@@ -123,8 +119,6 @@ Database
 AI/ML
  └── Machine Learning Fundamentals
 
-Development
- └── Backend Development
 ```
 
 ---
