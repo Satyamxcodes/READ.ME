@@ -89,7 +89,7 @@ HTML • CSS • JS
 
 ### 🗄️ MySQL Projects
 
-📌 Database design
+
 📌 SQL queries
 
 </td>
